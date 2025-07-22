@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686341947357",
+    "project_id": "fruitqualityapp",
+    "storage_bucket": "fruitqualityapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686341947357:android:2d5a7bf7f0e2da1e818034",
+        "android_client_info": {
+          "package_name": "com.example.fruitquality"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVv-0fXYejzSIJR5MSU9w9npbEaZCY0s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
